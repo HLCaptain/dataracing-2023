@@ -1,0 +1,6 @@
+data/
+# TODO: include best models in the future
+models/
+logs/
+lightning_logs/
+.vscode/
