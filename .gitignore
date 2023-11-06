@@ -1,6 +1,7 @@
 data/
-# TODO: include best models in the future
+!data/.gitkeep
 models/
+!models/best/.gitkeep
 logs/
 lightning_logs/
 .vscode/
