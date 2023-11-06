@@ -1,7 +1,7 @@
-data/
-!data/.gitkeep
-models/
-!models/best/.gitkeep
+data/*
+!/data/.gitkeep
+models/*
+!/models/best/
 logs/
 lightning_logs/
 .vscode/

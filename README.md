@@ -13,9 +13,17 @@ Content of the zip package:
 - `training_data.csv` - training data
 - `data_submission_example.csv` - sample solution, sample format of the data to be submitted
 
+These files should be placed into the `data` folder.
+
 ## Usage
 
 You can train models on the dataset by running the `loan_prediction.ipynb` notebook in Google Colab or locally.
+
+After training, the best model is selected to predict data. The predicted data should be `predictions.csv` in the `data` folder, similar to `data_submission_example.csv`.
+
+Models are put into the `models` folder.
+
+Best models are places inside the `models/best` folder.
 
 ## License
 
